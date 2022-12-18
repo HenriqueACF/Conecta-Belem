@@ -1,6 +1,16 @@
 # Quasar App (conecta-belem-web)
 
-A Quasar Project
+### TODO:
+*
+### DOING:
+*
+### DONE:
+* Tela Login
+* Tela SignUp
+
+
+
+How To Start Project
 
 ## Install the dependencies
 ```bash

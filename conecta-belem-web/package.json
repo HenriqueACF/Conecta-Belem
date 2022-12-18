@@ -2,7 +2,7 @@
   "name": "conecta-belem-web",
   "version": "0.0.1",
   "description": "A Quasar Project",
-  "productName": "Quasar App",
+  "productName": "Conecta Belém",
   "author": "Henrique Assis C.F. <dev_henrique.assis@proton.me>",
   "private": true,
   "scripts": {
